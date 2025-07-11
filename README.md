@@ -6,7 +6,7 @@ I'm a Full Stack Developer passionate about building scalable web and mobile app
 ## 💻 Tech Stack
 
 ### Frontend Development
-<div align="center">
+<div align="center"> 
   <table>
     <tr>
       <td align="center" width="96">
